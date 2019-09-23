@@ -1,3 +1,58 @@
 #nameHead {
-color: red !important;
+color: #890000;
+width: 75%;	
+padding-top: 10px;
+padding-bottom: 10px;
+text-align: center;
+margin: auto;
+font-family: 'Raleway', sans-serif;
+font-size: 45px;
+background-color: #2d2d2d;
+}
+
+.mainBody {
+width:75%;
+padding-bottom: 25px;
+margin: auto;
+font-family: 'Montserrat', sans-serif;
+color: #b6b6b6;
+background-color: #2d2d2d;
+font-size: 18px;
+}
+
+a:link {
+color: #b6b6b6;
+}
+
+a:hover {
+color: #890000;
+}
+
+a:visited {
+color: #b6b6b6;
+}
+
+body {
+background-color: #dfdfdf;
+margin-top: 5px;
+}
+
+img {
+width: 25%;
+margin: auto;
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#social {
+text-align: center;
+}
+
+.textBody {
+padding-left: 25px;
 }
